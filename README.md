@@ -28,7 +28,7 @@ A SQL model that:
 
 ## Sample Output
 This table shows how SKUs are classified into actions:
-![Inventory Outuput](images/result.png)
+![Inventory Outuput](images/results.png)
 
 ---
 
