@@ -22,9 +22,10 @@ A SQL model that:
 ---
 
 ## Key Results 
-- No SKUs currently need imedicate reorder
-- SKU 8, 6, 12 show highest stockout risk
-- Some SKUs have excess inventory (high days of supply)
+- No SKUs currently require immediate reorder
+- Majority of SKUs fall into MONITOR category, indicating stable but watch-worthy inventory levels
+- 3 SKUs (SKU11, SKU5, SKU3) show excess inventory with high days of supply (>90 days)
+- These SKUs represent potential capital inefficiency and overstock risk
 
 ## Sample Output
 This table shows how SKUs are classified into actions:
