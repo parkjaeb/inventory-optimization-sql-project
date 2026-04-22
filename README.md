@@ -26,6 +26,10 @@ A SQL model that:
 - SKU 8, 6, 12 show highest stockout risk
 - Some SKUs have excess inventory (high days of supply)
 
+## Sample Output
+This table shows how SKUs are classified into actions:
+![Inventory Outuput](images/result.png)
+
 ---
 
 ## Business Actions 
